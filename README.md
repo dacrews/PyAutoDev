@@ -17,7 +17,7 @@ For Django projects, PyAutoDev creates a fresh Django project ready for developm
 * Answer the three questions:
   * What is your desired framework?
   * What would you like to name your project?
-  * Where will this project live? (Full path ending with '\')
+  * Where will this project live? (Full path ending with `\`)
 
 After that, PyAutoDev will create and open your project in VS Code!
 
