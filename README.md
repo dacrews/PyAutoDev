@@ -24,6 +24,8 @@ After that, PyAutoDev will create and open your project in VS Code!
 ![](https://github.com/dacrews/PyAutoDev/blob/main/gif.gif)
 
 ### Future updates:
-* Ability to utilize more frameworks
+* Added ability to utilize more frameworks
 * GUI
 * Mac compatibility 
+* Added ability to select extra packages before building
+* Compatibility with all CLIs
